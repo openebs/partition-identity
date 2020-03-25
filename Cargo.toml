@@ -10,4 +10,4 @@ categories = ["os", "os::unix-apis"]
 readme = "README.md"
 
 [dependencies]
-err-derive = "0.2.4"
+err-derive = "0.2"
